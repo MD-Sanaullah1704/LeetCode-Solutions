@@ -5,8 +5,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/MD-Sanaullah1704/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/MD-Sanaullah1704/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/MD-Sanaullah1704/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/MD-Sanaullah1704/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/MD-Sanaullah1704/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
